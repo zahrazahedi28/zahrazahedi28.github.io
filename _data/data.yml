@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Zahra Zahedi
-    tagline: Full Stack Developer
+    #tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -24,56 +24,102 @@ sidebar:
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Persian
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
-    interests:
-      - item: Climbing
+    
+    research interests:
+      - item: Human-aware AI
         link:
 
-      - item: Snowboarding
+      - item: Automated planning
         link:
 
-      - item: Cooking
+      - item: Game theory
         link:
 
 career-profile:
-    title: Career Profile
+    title: About me
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Ph.D. in Computer Engineering
+      university: Arizona State University
+      time: 2018 - present
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        My thesis was on Nash equilibrium seeking without steady-state oscillation
+    - degree: MSc in Electrical Engineering/ Control
+      university: Shiraz University
+      time: 2015 - 2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        My thesis was on Nash equilibrium seeking without steady-state oscillation
+    - degree: BSc in Electrical Engineering\Control
+      university: Shiraz University
+      time: 2011 - 2015
+      details: |
+       
+publications:
+    title: Publications
+    intro: |
+      
+    papers:
+      - title: `Why not give this work to them?' Explaining AI-Moderated Task-Allocation Outcomes using Negotiation Trees
+        link: "#"
+        authors: Z. Zahedi*, S. Sengupta*, S. Kambhampati
+        conference: 
+
+      - title: To Monitor or Not: Observing Robot's Behavior based on a Game-Theoretic Model of Trust
+        link: "#"
+        authors: Z. Zahedi*, S. Sengupta*, S. Kambhampati
+        conference: "21st International Workshop on Trust in Agent Societies (co-located with AAMAS), (2019)"
+
+      - title: Towards Understanding User Preferences for Explanation Types in Model Reconciliation
+        link: "#"
+        authors: Z. Zahedi*, A. Olmo*, T. Chakraborti, S. Sreedharan, S. Kambhampati
+        conference: "HRI Late Breaking Report, (2019)"
+
+	- title: Fast convergence to Nash equilibria without steady-State oscillation
+        link: "#"
+        authors: Z. Zahedi, M. M. Arefi, A. Khayatian
+        conference: "Systems and Control Letters, (2019)"
+	
+	- title: Fast seeking of Nash equilibria without steady-state oscillation in games with non-quadratic payoffs
+        link: "#"
+        authors: Z. Zahedi, M. M. Arefi, A. Khayatian, and H. Modares
+        conference: "in proc. 2018 American Control Conference"
+
+	- title: Convergence without oscillation to Nash equilibria in non-Cooperative games with quadratic payoffs
+        link: "#"
+        authors: Z. Zahedi, M. M. Arefi, and A. Khayatian
+        conference: "25th Iranian Conference on Electrical Engineering (ICEE), published in IEEE Xplorer, May 2017"
+
+	- title: Real-time, Simultaneous Multi-Channel Data Acquisition Systems with no time skews between input channels
+        link: "#"
+        authors: F. Zahedi, Z. Zahedi
+        conference: "International Journal of Signal Processing Systems (IJSPS), vol. 4, no. 1, pp. 17-21, 2016"
+
+	- title: A review of Neuro-fuzzy Systems based on Intelligent Control
+        link: "#"
+        authors: F. Zahedi, Z. Zahedi
+        conference: "Journal of Electrical and Electronic Engineering, vol. 3, no. 2-1, pp. 58-61, 2015"
+
+	- title: Real-time, Simultaneous Multi-Channel Data Acquisition Systems with no time skews between input channels
+        link: "#"
+        authors: F. Zahedi, Z. Zahedi
+        conference: "6th International Conference on Signal Processing Systems (ICSPS), 2014"
+
+	- title: Review of Neuro-fuzzy based on Intelligent Control
+        link: "#"
+        authors: F. Zahedi, Z. Zahedi
+        conference: "HRI Late Breaking Report, (2019)"
+
+	- title: Towards Understanding User Preferences for Explanation Types in Model Reconciliation
+        link: "#"
+        authors: F. Zahedi, Z. Zahedi
+        conference: "8th Symposium on Advances in Science & Technology," 2014 (Persian)"
+ 
 experiences:
     - role: Lead Developer
       time: 2015 - Present
@@ -139,27 +185,6 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
