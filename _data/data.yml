@@ -9,10 +9,11 @@ sidebar:
     # Profile information
     name: Zahra Zahedi
     #tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile1.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: zzahedi@asu.edu
+    Arizona State University, USA
     #linkedin: alandoe
     #github: sharu725
     #gitlab:
@@ -30,7 +31,7 @@ sidebar:
         level: Native
 
     
-    research interests:
+    interests:
       - item: Human-aware AI
         link:
 
@@ -72,7 +73,7 @@ publications:
         authors: "Z. Zahedi*, S. Sengupta*, S. Kambhampati"
         conference: 
 
-      - title: "To Monitor or Not, Observing Robot's Behavior based on a Game-Theoretic Model of Trust"
+      - title: "To Monitor or Not: Observing Robot's Behavior based on a Game-Theoretic Model of Trust"
         link: "https://arxiv.org/pdf/1903.00111.pdf"
         authors: "Z. Zahedi*, S. Sengupta*, S. Kambhampati"
         conference: "21st International Workshop on Trust in Agent Societies (co-located with AAMAS), (2019)"
@@ -115,74 +116,72 @@ publications:
       - title: "Review of Neuro-fuzzy based on Intelligent Control"
         link: "#"
         authors: "F. Zahedi, Z. Zahedi"
-        conference: "HRI Late Breaking Report, (2019)"
+        conference: "8th Symposium on Advances in Science \& Technology," 2014 (Persian)"
 
 
  
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+#experiences:
+#    - role: Lead Developer
+#      time: 2015 - Present
+#      company: Startup Hubs, San Francisco
+#      details: |
+#        Describe your role here lorem ipsum dolor sit amet, consectetuer
+#        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#        Cum sociis natoque penatibus et magnis dis parturient montes,
+#        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+#        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+#        error sit voluptatem accusantium doloremque laudantium, totam rem
+#        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+#        architecto beatae vitae dicta sunt explicabo.
+#          - Bullet point
+#          - Bullet point
+#    - role: Senior Software Engineer
+#      time: 2014 - 2015
+#      company: Google, London
+#      details: |
+#        Describe your role here lorem ipsum dolor sit amet, consectetuer
+#        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#        Cum sociis natoque penatibus et magnis dis parturient montes,
+#        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#        pellentesque eu, pretium quis, sem.
+#          - Bullet point
+#          - Bullet point
+#    - role: UI Developer
+#      time: 2012 - 2014
+#      company: Amazon, London
+#      details: |
+#        Describe your role here lorem ipsum dolor sit amet, consectetuer
+#        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#        Cum sociis natoque penatibus et magnis dis parturient montes,
+#        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#        pellentesque eu, pretium quis, sem.
+#          - Bullet point
+#          - Bullet point
 projects:
-    title: Projects
+    title: Current Research Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
     assignments:
-      - title: Velocity
+      - title: Model of trust in monitoring a robot
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "In this work, we have investigated a human robot interaction scenario when a human supervisor has zero trust on a robot worker by modeling their interaction as Bayesian game. We introduce a notion of trust boundary that optimizes the supervisor’s monitoring cost while ensuring that the robot workers stick to the safe plans."
 
-      - title: DevStudio
+      - title: Explaining AI-Moderated Task-Allocation Outcomes using Negotiation Trees
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "We  considered  a  task-allocation  problem  where  an  AI  Task  Allocator (AITA) comes up with a fair allocation for a group of humans. And the AITA is able to provide explanation in the form of negotiation tree to convince humans who thinks a counterfactual allocation is more fair."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#      - title: Tempo
+#        link: "#"
+#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#
+#      - title: Atom
+#        link: "#"
+#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#
+#      - title: Delta
+#        link: "#"
+#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 
 skills:
