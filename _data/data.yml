@@ -188,26 +188,33 @@ skills:
     title: Awards and Honors
 
     toolset:
-      - name: Fulton Fellowship Award -- 2019-2020
+      - name: Fulton Fellowship Award
+      - time: 2019-2020
         #level: #
 
-      - name: Graduate Fellowship Award -- 2019 and 2020
+      - name: Graduate Fellowship Award
+      - time: 2019 and 2020
        # level: #
 
-      - name: 2nd rank among the Control students in Shiraz University -- 2016-2017
+      - name: 2nd rank among the Control students in Shiraz University
        # level: #
+      - time: 2016-2017
 
-      - name: Granted merit-based admission to M.Sc. in Shiraz University -- 2015
+      - name: Granted merit-based admission to M.Sc. in Shiraz University
         #level: #
+      - time: 2015
 
-      - name: Honored as Active Student, Shiraz University -- 2015
+      - name: Honored as Active Student, Shiraz University
         #level: 85%
+      - time: 2015
 
       - name: Ranked within top 10% among more than 120 undergraduate students in Electrical and Computer Engineering Department, Shiraz University
         #level: 60%
 
-      - name: Ranked Top 0.7% among near 300,000 participants in the National University Entrance Exam (Konkoor) in Math & Physics -- 2011
+
+      - name: Ranked Top 0.7% among near 300,000 participants in the National University Entrance Exam (Konkoor) in Math & Physics
+      - time: 2011
 
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+#footer: >
+#    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

@@ -16,16 +16,17 @@
     <div class="item">
 
       <h3 class="level-title">{{ skill.name }}</h3>
+      <div class="time">{{ graduation.time }}</div>
+      <!--<div class="level-bar">-->
+      <!--<div class="level-bar-inner" data-level="{{ skill.level }}">-->
+      <!--</div>-->
+      <!--</div>&lt;!&ndash;//level-bar&ndash;&gt;-->
 
-      <div class="level-bar">
-        <div class="level-bar-inner" data-level="{{ skill.level }}">
-        </div>
-      </div><!--//level-bar-->
 
-    </div><!--//item-->
-    {% endfor %}
+    </div>
 
   </div>
+
 
 </section><!--//skills-section-->
 {% endif %}
