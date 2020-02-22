@@ -41,8 +41,10 @@ sidebar:
         link:
 
 career-profile:
-    title: About me
+    title: Home
     summary: |
+      I am Zahra a Ph.D student at Arizona State University, majoring in Computer Science. I work at <a href="https://yochan-lab.github.io/home/">Yochan</a> research group directed by <a href="http://rakaposhi.eas.asu.edu/">Prof. Subbarao Kambhampati</a>. My general research interest is to have robots and AIs which are aware of the human in their loop, so they are trustable and explainable, and appropriate for social good. My research interests are Human-robot interaction, automated planning, and game theory.
+      You can find the latest version of my CV <a href="Resume.pdf">here</a>.
       
 education:
     - degree: Ph.D. in Computer Engineering
@@ -66,42 +68,42 @@ publications:
       
     papers:
       - title: "`Why not give this work to them?' Explaining AI-Moderated Task-Allocation Outcomes using Negotiation Trees"
-        link: "#"
+        link: "https://arxiv.org/pdf/2002.01640.pdf"
         authors: "Z. Zahedi*, S. Sengupta*, S. Kambhampati"
         conference: 
 
       - title: "To Monitor or Not, Observing Robot's Behavior based on a Game-Theoretic Model of Trust"
-        link: "#"
+        link: "https://arxiv.org/pdf/1903.00111.pdf"
         authors: "Z. Zahedi*, S. Sengupta*, S. Kambhampati"
         conference: "21st International Workshop on Trust in Agent Societies (co-located with AAMAS), (2019)"
 
       - title: "Towards Understanding User Preferences for Explanation Types in Model Reconciliation"
-        link: "#"
+        link: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8673097"
         authors: "Z. Zahedi*, A. Olmo*, T. Chakraborti, S. Sreedharan, S. Kambhampati"
         conference: "HRI Late Breaking Report, (2019)"
 
       - title: "Fast convergence to Nash equilibria without steady-State oscillation"
-        link: "#"
+        link: "https://www.sciencedirect.com/science/article/pii/S0167691118302123"
         authors: "Z. Zahedi, M. M. Arefi, A. Khayatian"
         conference: "Systems and Control Letters, (2019)"
 
       - title: "Fast seeking of Nash equilibria without steady-state oscillation in games with non-quadratic payoffs"
-        link: "#"
+        link: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8430921"
         authors: "Z. Zahedi, M. M. Arefi, A. Khayatian, and H. Modares"
         conference: "in proc. 2018 American Control Conference"
 
       - title: "Convergence without oscillation to Nash equilibria in non-Cooperative games with quadratic payoffs"
-        link: "#"
+        link: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7985119"
         authors: "Z. Zahedi, M. M. Arefi, and A. Khayatian"
         conference: "25th Iranian Conference on Electrical Engineering (ICEE), published in IEEE Xplorer, May 2017"
 
       - title: "Real-time, Simultaneous Multi-Channel Data Acquisition Systems with no time skews between input channels"
-        link: "#"
+        link: "http://www.ijsps.com/uploadfile/2015/0911/20150911103716398.pdf"
         authors: "F. Zahedi, Z. Zahedi"
         conference: "International Journal of Signal Processing Systems (IJSPS), vol. 4, no. 1, pp. 17-21, 2016"
 
       - title: "A review of Neuro-fuzzy Systems based on Intelligent Control"
-        link: "#"
+        link: "https://arxiv.org/pdf/1805.03138.pdf"
         authors: "F. Zahedi, Z. Zahedi"
         conference: "Journal of Electrical and Electronic Engineering, vol. 3, no. 2-1, pp. 58-61, 2015"
 
