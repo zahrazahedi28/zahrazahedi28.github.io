@@ -50,14 +50,44 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1206789073">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="yml" value="168" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="YAML" value="168" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="2" />
+          <entry key="yml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="2" />
+          <entry key="YAML" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_data/data.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1095">
-              <caret line="118" column="71" selection-start-line="118" selection-start-column="71" selection-end-line="118" selection-end-column="71" />
+            <state relative-caret-position="300">
+              <caret line="47" column="57" lean-forward="true" selection-start-line="47" selection-start-column="57" selection-end-line="47" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -93,27 +123,33 @@
         <subPane>
           <expand>
             <path>
-              <item name="online-cv" type="b2602c69:ProjectViewProjectNode" />
-              <item name="online-cv" type="462c0819:PsiDirectoryNode" />
+              <item name="zahrazahedi28.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zahrazahedi28.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="online-cv" type="b2602c69:ProjectViewProjectNode" />
-              <item name="online-cv" type="462c0819:PsiDirectoryNode" />
+              <item name="zahrazahedi28.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zahrazahedi28.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="online-cv" type="b2602c69:ProjectViewProjectNode" />
-              <item name="online-cv" type="462c0819:PsiDirectoryNode" />
+              <item name="zahrazahedi28.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zahrazahedi28.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_includes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="online-cv" type="b2602c69:ProjectViewProjectNode" />
-              <item name="online-cv" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="zahrazahedi28.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zahrazahedi28.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="online-cv" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="zahrazahedi28.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zahrazahedi28.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_sass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zahrazahedi28.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zahrazahedi28.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -253,10 +289,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/skills.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/education.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/_data/data.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1095">
-          <caret line="118" column="71" selection-start-line="118" selection-start-column="71" selection-end-line="118" selection-end-column="71" />
+        <state relative-caret-position="300">
+          <caret line="47" column="57" lean-forward="true" selection-start-line="47" selection-start-column="57" selection-end-line="47" selection-end-column="57" />
         </state>
       </provider>
     </entry>

@@ -45,7 +45,7 @@ career-profile:
     title: Home
     summary: |
       I am Zahra a Ph.D student at Arizona State University, majoring in Computer Science. I work at <a href="https://yochan-lab.github.io/home/">Yochan</a> research group directed by <a href="http://rakaposhi.eas.asu.edu/">Prof. Subbarao Kambhampati</a>. My general research interest is to have robots and AIs which are aware of the human in their loop, so they are trustable and explainable, and appropriate for social good. My research interests are Human-robot interaction, automated planning, and game theory.
-      You can find the latest version of my CV <a href="Resume.pdf">here</a>.
+      You can find the latest version of my CV <a href="./Resume.pdf">here</a>.
       
 education:
     - degree: Ph.D. in Computer Engineering
@@ -185,26 +185,29 @@ projects:
 
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Awards and Honors
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Fulton Fellowship Award -- 2019-2020
+        #level: #
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Graduate Fellowship Award -- 2019 and 2020
+       # level: #
 
-      - name: Angular
-        level: 98%
+      - name: 2nd rank among the Control students in Shiraz University -- 2016-2017
+       # level: #
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Granted merit-based admission to M.Sc. in Shiraz University -- 2015
+        #level: #
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Honored as Active Student, Shiraz University -- 2015
+        #level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Ranked within top 10% among more than 120 undergraduate students in Electrical and Computer Engineering Department, Shiraz University
+        #level: 60%
+
+      - name: Ranked Top 0.7% among near 300,000 participants in the National University Entrance Exam (Konkoor) in Math & Physics -- 2011
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
