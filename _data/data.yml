@@ -68,10 +68,10 @@ publications:
     intro: |
       
     papers:
-      - title: "`Why not give this work to them?' Explaining AI-Moderated Task-Allocation Outcomes using Negotiation Trees"
+      - title: "`Why not give this work to them?' Negotiation-Aware Task-Allocation and Contrastive Explanation Generation"
         link: "https://arxiv.org/pdf/2002.01640.pdf"
         authors: "Z. Zahedi*, S. Sengupta*, S. Kambhampati"
-        conference: 
+        conference:"Cooperative AI Workshop, NeurIPS 2020"
 
       - title: "To Monitor or Not: Observing Robot's Behavior based on a Game-Theoretic Model of Trust"
         link: "https://arxiv.org/pdf/1903.00111.pdf"
