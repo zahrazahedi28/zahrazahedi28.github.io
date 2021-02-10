@@ -75,7 +75,7 @@ publications:
 
       - title: "To Monitor or Not: Observing Robot's Behavior based on a Game-Theoretic Model of Trust"
         link: "https://arxiv.org/pdf/1903.00111.pdf"
-        authors: "Z. Zahedi*, S. Sengupta*, S. Kambhampati"
+        authors: "S. Sengupta*, Z. Zahedi*, S. Kambhampati"
         conference: "21st International Workshop on Trust in Agent Societies (co-located with AAMAS), (2019)"
 
       - title: "Towards Understanding User Preferences for Explanation Types in Model Reconciliation"
