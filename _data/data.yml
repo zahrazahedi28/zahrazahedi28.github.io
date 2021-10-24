@@ -44,7 +44,7 @@ sidebar:
 career-profile:
     title: Home
     summary: |
-      I am Zahra a Ph.D student at Arizona State University, majoring in Computer Science. I work at <a href="https://yochan-lab.github.io/home/">Yochan</a> research group directed by <a href="http://rakaposhi.eas.asu.edu/">Prof. Subbarao Kambhampati</a>. My general research interest is to have robots and AIs which are aware of the human in their loop, so they are trustable and explainable, and appropriate for social good. My research interests are Human-robot interaction, automated planning, and game theory.
+      I am Zahra a Ph.D student at Arizona State University, majoring in Computer Science. I work at <a href="https://yochan-lab.github.io/home/">Yochan</a> research group directed by <a href="http://rakaposhi.eas.asu.edu/">Prof. Subbarao Kambhampati</a>. My general research interest is to have robots and AIs which are aware of the human in their loop, so they are trustable and explainable. My research interests are Trust, Human-robot interaction, automated planning, and game theory.
       You can find the latest version of my CV <a href="./Resume.pdf">here</a>.
       
 education:
@@ -68,6 +68,16 @@ publications:
     intro: |
       
     papers:
+      - title: "`Trust-Aware Planning: Modeling Trust Evolution in Longitudinal Human-Robot Interaction"
+        link: "https://arxiv.org/pdf/2105.01220.pdf"
+        authors: "Z. Zahedi, M. Verma, S. Sreedharan, S. Kambhampati"
+        conference: "XAIP and PlanRob Workshop, ICAPS 2021"
+
+      - title: "`Game-theoretic Model of Trust to Infer Human’s Observation Strategy of Robot Behavior"
+        link: "https://yochan-lab.github.io/papers/files/papers/sailik_2C_not_2C_RSS_submission.pdf"
+        authors: "S. Sengupta*, Z. Zahedi*, S. Kambhampati"
+        conference: "R4P Workshop, R:SS 2021"
+
       - title: "`Why not give this work to them?' Negotiation-Aware Task-Allocation and Contrastive Explanation Generation"
         link: "https://arxiv.org/pdf/2002.01640.pdf"
         authors: "Z. Zahedi*, S. Sengupta*, S. Kambhampati"
@@ -163,6 +173,10 @@ projects:
     intro: >
 
     assignments:
+      - title: Trust-Aware Planning in longitudinal human robot interaction
+        link: "#hook"
+        tagline: "In this work, we have propose a computational model for capturing and modulating trust inlongitudinal  human-robot  interaction  where  the  robot  integrates  human’s trust and their expectations into planning to build and maintain trust over the interaction horizon.  By establishing the required level of trust, the robot can focus on maximizing the team goal by eschewing explicit explanatory or explicable behavior.  The human also with a high level of trust in the robot, might choose not to monitor the robot, or not to intervene by stopping the robot and save their resources.
+
       - title: Model of trust in monitoring a robot
         link: "#hook"
         tagline: "In this work, we have investigated a human robot interaction scenario when a human supervisor has zero trust on a robot worker by modeling their interaction as Bayesian game. We introduce a notion of trust boundary that optimizes the supervisor’s monitoring cost while ensuring that the robot workers stick to the safe plans."
