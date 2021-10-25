@@ -174,7 +174,7 @@ projects:
 
     assignments:
       - title: Trust-Aware Planning in longitudinal human robot interaction
-        link: "#hook"
+        link: "#l"
         tagline: "In this work, we have propose a computational model for capturing and modulating trust inlongitudinal  human-robot  interaction  where  the  robot  integrates  human’s trust and their expectations into planning to build and maintain trust over the interaction horizon.  By establishing the required level of trust, the robot can focus on maximizing the team goal by eschewing explicit explanatory or explicable behavior.  The human also with a high level of trust in the robot, might choose not to monitor the robot, or not to intervene by stopping the robot and save their resources.
 
       - title: Model of trust in monitoring a robot
