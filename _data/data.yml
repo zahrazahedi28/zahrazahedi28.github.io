@@ -154,9 +154,6 @@ publications:
         authors: "F. Zahedi, Z. Zahedi"
         conference: "8th Symposium on Advances in Science & Technology, 2014 (Persian)"
 
-
- 
-
 #experiences:
 #
 #    - role: Research Scientist Intern
@@ -191,6 +188,7 @@ publications:
 #        pellentesque eu, pretium quis, sem.
 #          - Bullet point
 #          - Bullet point
+
 projects:
     title: Current Research Projects
     intro: >
@@ -218,9 +216,7 @@ projects:
 #
 #      - title: Delta
 #        link: "#"
-#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-
+#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote #their mobile apps"
 
 experiences:
     title: Awards and Honors
@@ -245,7 +241,6 @@ experiences:
 
     - role: Honored as Active Student, Shiraz University
       time: 2015
-
 
 #skills:
 #    title: Awards and Honors
