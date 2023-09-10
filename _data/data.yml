@@ -156,22 +156,22 @@ publications:
 
 
  
-#experiences:
-#    - role: Lead Developer
-#      time: 2015 - Present
-#      company: Startup Hubs, San Francisco
-#      details: |
-#        Describe your role here lorem ipsum dolor sit amet, consectetuer
-#        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#        Cum sociis natoque penatibus et magnis dis parturient montes,
-#        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-#        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-#        error sit voluptatem accusantium doloremque laudantium, totam rem
-#        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-#        architecto beatae vitae dicta sunt explicabo.
-#          - Bullet point
-#          - Bullet point
+experiences:
+    - role: Lead Developer
+      time: 2015 - Present
+      company: Startup Hubs, San Francisco
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+          - Bullet point
+          - Bullet point
 #    - role: Senior Software Engineer
 #      time: 2014 - 2015
 #      company: Google, London
@@ -225,37 +225,37 @@ projects:
 
 
 
-experiences:
-    - role: ASU Iranian American Alumni Academic Scholarship
-      time: 2023
+#experiences:
+#    - role: ASU Iranian American Alumni Academic Scholarship
+#      time: 2023
+#
+#    - role: Grace Hopper's Scholarship, AnitaB.org
+#      time: 2022
+#
+#    - role: Fulton Fellowship Award
+#      time: 2019-2020
+#
+#    - role: Graduate Fellowship Award
+#      time: 2019 and 2020
+#
+#    - role: 2nd rank among the Control students in Shiraz University
+#      time: 2016-2017
+#
+#    - role: Granted merit-based admission to M.Sc. in Shiraz University
+#      time: 2015
+#
+#    - role: Honored as Active Student, Shiraz University
+#      time: 2015
 
-    - role: Grace Hopper's Scholarship, AnitaB.org
-      time: 2022
 
-    - role: Fulton Fellowship Award
-      time: 2019-2020
-
-    - role: Graduate Fellowship Award
-      time: 2019 and 2020
-
-    - role: 2nd rank among the Control students in Shiraz University
-      time: 2016-2017
-
-    - role: Granted merit-based admission to M.Sc. in Shiraz University
-      time: 2015
-
-    - role: Honored as Active Student, Shiraz University
-      time: 2015
-
-
-skills:
-    title: Experiences
-
-    toolset:
-      - name: Research Scientist Intern
-      - time: September 2022 - May 2023
-        level: Honda Research Institute, San Jose, CA.
-
+#skills:
+#    title: Experiences
+#
+#    toolset:
+#      - name: Research Scientist Intern
+#      - time: September 2022 - May 2023
+#        level: Honda Research Institute, San Jose, CA.
+#
 #      - name: Graduate Fellowship Award
 #      - time: 2019 and 2020
 #       # level: #
