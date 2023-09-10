@@ -169,17 +169,17 @@ experiences:
 
 #          - Bullet point
 #          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+#    - role: Senior Software Engineer
+#      time: 2014 - 2015
+#      company: Google, London
+#      details: |
+#        Describe your role here lorem ipsum dolor sit amet, consectetuer
+#        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#        Cum sociis natoque penatibus et magnis dis parturient montes,
+#        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#        pellentesque eu, pretium quis, sem.
+#          - Bullet point
+#          - Bullet point
 #    - role: UI Developer
 #      time: 2012 - 2014
 #      company: Amazon, London
@@ -222,29 +222,29 @@ projects:
 
 
 
-#experiences:
-#
-#    - role: ASU Iranian American Alumni Academic Scholarship
-#      time: 2023
-#
-#    - role: Grace Hopper's Scholarship, AnitaB.org
-#      time: 2022
-#
-#    - role: Fulton Fellowship Award
-#      time: 2019-2020
-#
-#    - role: Graduate Fellowship Award
-#      time: 2019 and 2020
-#
-#    - role: 2nd rank among the Control students in Shiraz University
-#      time: 2016-2017
-#
-#    - role: Granted merit-based admission to M.Sc. in Shiraz University
-#      time: 2015
-#
-#    - role: Honored as Active Student, Shiraz University
-#      time: 2015
-#
+experiences:
+
+    - role: ASU Iranian American Alumni Academic Scholarship
+      time: 2023
+
+    - role: Grace Hopper's Scholarship, AnitaB.org
+      time: 2022
+
+    - role: Fulton Fellowship Award
+      time: 2019-2020
+
+    - role: Graduate Fellowship Award
+      time: 2019 and 2020
+
+    - role: 2nd rank among the Control students in Shiraz University
+      time: 2016-2017
+
+    - role: Granted merit-based admission to M.Sc. in Shiraz University
+      time: 2015
+
+    - role: Honored as Active Student, Shiraz University
+      time: 2015
+
 
 #skills:
 #    title: Awards and Honors
