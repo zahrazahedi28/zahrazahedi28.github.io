@@ -156,8 +156,8 @@ publications:
 
 
  
-experiences:
-
+#experiences:
+#
 #    - role: Research Scientist Intern
 #      time: September 2022 - May 2023
 #      company: Honda Research Institute, San Jose, CA.
@@ -166,7 +166,6 @@ experiences:
 #           - Developing modeling framework to understand and predict human cognitive states
 #	   - Modeling dynamics of human behavior for human-automation interactions
 #	   - Creating and validating tools to optimize system performance based on predicted human #states.
-
 #          - Bullet point
 #          - Bullet point
 #    - role: Senior Software Engineer
