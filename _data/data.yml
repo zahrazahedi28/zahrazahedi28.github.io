@@ -157,28 +157,29 @@ publications:
 
  
 experiences:
-    - role: Research Scientist Intern
-      time: 2022 - 2023
-      company: Honda Research Institute, San Jose, CA.
-      details: |
-	Describe your role here lorem ipsum dolor sit amet, consectetuer
-           - Developing modeling framework to understand and predict human cognitive states
-	   - Modeling dynamics of human behavior for human-automation interactions
-	   - Creating and validating tools to optimize system performance based on predicted human states.
+
+#    - role: Research Scientist Intern
+#      time: September 2022 - May 2023
+#      company: Honda Research Institute, San Jose, CA.
+#      details: |
+#	Describe your role here lorem ipsum dolor sit amet, consectetuer
+#           - Developing modeling framework to understand and predict human cognitive states
+#	   - Modeling dynamics of human behavior for human-automation interactions
+#	   - Creating and validating tools to optimize system performance based on predicted human #states.
 
 #          - Bullet point
 #          - Bullet point
-#    - role: Senior Software Engineer
-#      time: 2014 - 2015
-#      company: Google, London
-#      details: |
-#        Describe your role here lorem ipsum dolor sit amet, consectetuer
-#        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#        Cum sociis natoque penatibus et magnis dis parturient montes,
-#        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#        pellentesque eu, pretium quis, sem.
-#          - Bullet point
-#          - Bullet point
+    - role: Senior Software Engineer
+      time: 2014 - 2015
+      company: Google, London
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
 #    - role: UI Developer
 #      time: 2012 - 2014
 #      company: Amazon, London
