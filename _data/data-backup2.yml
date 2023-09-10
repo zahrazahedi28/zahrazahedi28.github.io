@@ -32,10 +32,10 @@ sidebar:
 
     
     interests:
-      - item: Human-aware AI
+      - item: Trust in human-AI interaction
         link:
 
-      - item: Automated planning
+      - item: Human-aware AI
         link:
 
       - item: Game theory
@@ -44,7 +44,7 @@ sidebar:
 career-profile:
     title: Home
     summary: |
-      I am Zahra a Ph.D student at Arizona State University, majoring in Computer Science. I work at <a href="https://yochan-lab.github.io/home/">Yochan</a> research group directed by <a href="http://rakaposhi.eas.asu.edu/">Prof. Subbarao Kambhampati</a>. My general research interest is to have robots and AIs which are aware of the human in their loop, so they are trustable and explainable. My research interests are Trust, Human-robot interaction, automated planning, and game theory.
+      I am Zahra a Ph.D candidate at Arizona State University, majoring in Computer Science. I work at <a href="https://yochan-lab.github.io/home/">Yochan</a> research group directed by <a href="http://rakaposhi.eas.asu.edu/">Prof. Subbarao Kambhampati</a>. My general research interest is in developing cutting-edge computational models and frameworks for trust and understanding human cognitive states to enhance human-AI interaction. I have extensive research experience in diverse areas such as automated planning, AI, human-AI interaction, human-robot interaction, reinforcement learning, machine learning, behavior modeling of humans using data, statistical modeling, decision-making frameworks, and game theory.
       You can find the latest version of my CV <a href="./Resume.pdf">here</a>.
       
 education:
@@ -68,13 +68,39 @@ publications:
     intro: |
       
     papers:
+
+      - title: "`A Mental Model based Theory of Trust"
+        link: "https://arxiv.org/pdf/2301.12569.pdf"
+        authors: "Z. Zahedi, S. Sreedharan, S. Kambhampati"
+        conference: "XAI Workshop, IJCAI 2023"
+
+      - title: "`Trust-Aware Planning: Modeling Trust Evolution in Iterated Human-Robot Interaction"
+        link: "https://dl.acm.org/doi/abs/10.1145/3568162.3578628"
+        authors: "Z. Zahedi, M. Verma, S. Sreedharan, S. Kambhampati"
+        conference: "HRI 2023"
+
+      - title: "``Why didn't you allocate this task to them?' Negotiation-Aware Explicable Task Allocation and Contrastive Explanation Generation"
+        link: "https://dl.acm.org/doi/abs/10.5555/3545946.3598911"
+        authors: "Z. Zahedi, S. Sengupta, S. Kambhampati"
+        conference: "Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems (AAMAS)"
+
+      - title: "`A Mental-Model Centric Landscape of Human-AI Symbiosis"
+        link: "https://arxiv.org/pdf/2202.09447.pdf"
+        authors: "Z. Zahedi, S. Sreedharan, S. Kambhampati"
+        conference: "R2HCAI Workshop, AAAII 2023"
+
+      - title: "`Modeling the Interplay between Human Trust and Monitoring"
+        link: "https://ieeexplore.ieee.org/abstract/document/9889475"
+        authors: "Z. Zahedi, S. Sreedharan, M. Verma, S. Kambhampati"
+        conference: "Proceedings of 2022 17th ACM/IEEE International Conference on Human-Robot Interaction (HRI)"
+
       - title: "`Trust-Aware Planning: Modeling Trust Evolution in Longitudinal Human-Robot Interaction"
         link: "https://arxiv.org/pdf/2105.01220.pdf"
         authors: "Z. Zahedi, M. Verma, S. Sreedharan, S. Kambhampati"
         conference: "XAIP and PlanRob Workshop, ICAPS 2021"
 
       - title: "`Game-theoretic Model of Trust to Infer Human’s Observation Strategy of Robot Behavior"
-        link: "https://yochan-lab.github.io/papers/files/papers/sailik_2C_not_2C_RSS_submission.pdf"
+        link: ""
         authors: "S. Sengupta*, Z. Zahedi*, S. Kambhampati"
         conference: "R4P Workshop, R:SS 2021"
 
@@ -128,22 +154,16 @@ publications:
         authors: "F. Zahedi, Z. Zahedi"
         conference: "8th Symposium on Advances in Science & Technology, 2014 (Persian)"
 
-
- 
 #experiences:
-#    - role: Lead Developer
-#      time: 2015 - Present
-#      company: Startup Hubs, San Francisco
+#
+#    - role: Research Scientist Intern
+#      time: September 2022 - May 2023
+#      company: Honda Research Institute, San Jose, CA.
 #      details: |
-#        Describe your role here lorem ipsum dolor sit amet, consectetuer
-#        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#        Cum sociis natoque penatibus et magnis dis parturient montes,
-#        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-#        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-#        error sit voluptatem accusantium doloremque laudantium, totam rem
-#        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-#        architecto beatae vitae dicta sunt explicabo.
+#	Describe your role here lorem ipsum dolor sit amet, consectetuer
+#           - Developing modeling framework to understand and predict human cognitive states
+#	   - Modeling dynamics of human behavior for human-automation interactions
+#	   - Creating and validating tools to optimize system performance based on predicted human #states.
 #          - Bullet point
 #          - Bullet point
 #    - role: Senior Software Engineer
@@ -168,6 +188,7 @@ publications:
 #        pellentesque eu, pretium quis, sem.
 #          - Bullet point
 #          - Bullet point
+
 projects:
     title: Current Research Projects
     intro: >
@@ -195,11 +216,17 @@ projects:
 #
 #      - title: Delta
 #        link: "#"
-#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-
+#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote #their mobile apps"
 
 experiences:
+    title: Awards and Honors
+
+    - role: ASU Iranian American Alumni Academic Scholarship
+      time: 2023
+
+    - role: Grace Hopper's Scholarship, AnitaB.org
+      time: 2022
+
     - role: Fulton Fellowship Award
       time: 2019-2020
 
@@ -214,7 +241,6 @@ experiences:
 
     - role: Honored as Active Student, Shiraz University
       time: 2015
-
 
 #skills:
 #    title: Awards and Honors
