@@ -69,6 +69,16 @@ publications:
       
     papers:
 
+      - title: "Toward Socially Intelligent Decision-Making for AVs: A Computational Model of Well-being and Trust in Mobility"
+        link: ""
+        authors: "Z. Zahedi, S. Mehrotra, T. Misu, K. Akash"
+        conference: "Under-review"
+
+      - title: "Wellbeing in Future Mobility: Toward AV Policy Design to Increase Wellbeing through Interactions"
+        link: ""
+        authors: "S. Mehrotra, Z. Zahedi, T. Misu, K. Akash"
+        conference: "ITSC 2023"
+
       - title: "A Mental Model based Theory of Trust"
         link: "https://arxiv.org/pdf/2301.12569.pdf"
         authors: "Z. Zahedi, S. Sreedharan, S. Kambhampati"
@@ -189,15 +199,17 @@ projects:
     intro: >
 
     assignments:
+      - title: Mental model based framework of trust
+          link: "#l"
+          tagline: "In this work, we contextualize the user’s trust and their consequent choice on whether or not to rely on the AI agent in terms of their mental model of the agent, and their preexisting expectations about the optimal way of solving the task. The agent on the other hand can either use behavior generated through its model, or explanations about its model, to influence both the user’s expectations about the agent and their expectations about the task."
       - title: Trust-Aware Planning in longitudinal human robot interaction
         link: "#l"
-        tagline: "In this work, we have propose a computational model for capturing and modulating trust inlongitudinal  human-robot  interaction  where  the  robot  integrates  human’s trust and their expectations into planning to build and maintain trust over the interaction horizon.  By establishing the required level of trust, the robot can focus on maximizing the team goal by eschewing explicit explanatory or explicable behavior.  The human also with a high level of trust in the robot, might choose not to monitor the robot, or not to intervene by stopping the robot and save their resources."
+        tagline: "In this work, we have propose a computational model for capturing and modulating trust in longitudinal  human-robot  interaction  where  the  robot  integrates  human’s trust and their expectations into planning to build and maintain trust over the interaction horizon.  By establishing the required level of trust, the robot can focus on maximizing the team goal by eschewing explicit explanatory or explicable behavior.  The human also with a high level of trust in the robot, might choose not to monitor the robot, or not to intervene by stopping the robot and save their resources."
 
-      - title: Model of trust in monitoring a robot
+      - title: Game-theoretic model of trust
         link: "#hook"
-        tagline: "In this work, we have investigated a human robot interaction scenario when a human supervisor has zero trust on a robot worker by modeling their interaction as Bayesian game. We introduce a notion of trust boundary that optimizes the supervisor’s monitoring cost while ensuring that the robot workers stick to the safe plans."
-
-      - title: Explaining AI-Moderated Task-Allocation Outcomes using Negotiation Trees
+        tagline: "In this work, we modeled a game theoretic model of trust in Human robot interaction setting and introduced a solution as a trust boundary which is a proper human’s monitoring strategy given the inferred trust. By choosing a monitoring strategy in that boundary, the human supervisor can assure that the robot or the artificial intelligent system will show a safe and interpretable behavior."
+      - title: Negotiation-aware task allocation
         link: "#"
         tagline: "We  considered  a  task-allocation  problem  where  an  AI  Task  Allocator (AITA) comes up with a fair allocation for a group of humans. And the AITA is able to provide explanation in the form of negotiation tree to convince humans who thinks a counterfactual allocation is more fair."
 
