@@ -159,11 +159,9 @@ publications:
 experiences:
     - role: Research Scientist Intern
       time: September 2022 - May 2023
-      company: Honda Research Institute, San Jose
+      company: Honda Research Institute, San Jose, CA
       details: |
-        In this role I was responsible for 
-          - Developing modeling framework to understand and predict human cognitive states
-          - Modeling dynamics of human behavior for human-automation interactions
+        In this role I was responsible for developing modeling framework to understand and predict human cognitive states, modeling dynamics of human behavior for human-automation interactions, and creating and validating tools to optimize system performance based on predicted human states.
 #    - role: Senior Software Engineer
 #      time: 2014 - 2015
 #      company: Google, London
