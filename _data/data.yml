@@ -215,27 +215,27 @@ projects:
 
 
 
-#experiences:
-#    - role: ASU Iranian American Alumni Academic Scholarship
-#      time: 2023
-#
-#    - role: Grace Hopper's Scholarship, AnitaB.org
-#      time: 2022
-#
-#    - role: Fulton Fellowship Award
-#      time: 2019-2020
-#
-#    - role: Graduate Fellowship Award
-#      time: 2019 and 2020
-#
-#    - role: 2nd rank among the Control students in Shiraz University
-#      time: 2016-2017
-#
-#    - role: Granted merit-based admission to M.Sc. in Shiraz University
-#      time: 2015
-#
-#    - role: Honored as Active Student, Shiraz University
-#      time: 2015
+awards:
+    - role: ASU Iranian American Alumni Academic Scholarship
+      time: 2023
+
+    - role: Grace Hopper's Scholarship, AnitaB.org
+      time: 2022
+
+    - role: Fulton Fellowship Award
+      time: 2019-2020
+
+    - role: Graduate Fellowship Award
+      time: 2019 and 2020
+
+    - role: 2nd rank among the Control students in Shiraz University
+      time: 2016-2017
+
+    - role: Granted merit-based admission to M.Sc. in Shiraz University
+      time: 2015
+
+    - role: Honored as Active Student, Shiraz University
+      time: 2015
 
 
 #skills:
