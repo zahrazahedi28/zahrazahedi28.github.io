@@ -44,7 +44,7 @@ sidebar:
 career-profile:
     title: Home
     summary: |
-      I am Zahra a Ph.D student at Arizona State University, majoring in Computer Science. I work at <a href="https://yochan-lab.github.io/home/">Yochan</a> research group directed by <a href="http://rakaposhi.eas.asu.edu/">Prof. Subbarao Kambhampati</a>. My general research interest is to have robots and AIs which are aware of the human in their loop, so they are trustable and explainable. My research interests are Trust, Human-robot interaction, automated planning, and game theory.
+      I am Zahra a Ph.D candidate at Arizona State University, majoring in Computer Science. I work at <a href="https://yochan-lab.github.io/home/">Yochan</a> research group directed by <a href="http://rakaposhi.eas.asu.edu/">Prof. Subbarao Kambhampati</a>. My general research interest is in developing cutting-edge computational models and frameworks for trust and understanding human cognitive states to enhance human-AI interaction. I have extensive research experience in diverse areas such as automated planning, AI, human-AI interaction, human-robot interaction, reinforcement learning, machine learning, behavior modeling of humans using data, statistical modeling, decision-making frameworks, and game theory.
       You can find the latest version of my CV <a href="./Resume.pdf">here</a>.
       
 education:
@@ -156,20 +156,14 @@ publications:
 
 
  
-#experiences:
-#    - role: Lead Developer
-#      time: 2015 - Present
-#      company: Startup Hubs, San Francisco
-#      details: |
-#        Describe your role here lorem ipsum dolor sit amet, consectetuer
-#        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#        Cum sociis natoque penatibus et magnis dis parturient montes,
-#        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-#        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-#        error sit voluptatem accusantium doloremque laudantium, totam rem
-#        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-#        architecto beatae vitae dicta sunt explicabo.
+experiences:
+    - role: Research Scientist Intern
+      time: September 2022- May 2023
+      company: Honda Research Institute, San Jose, CA.
+      details: |
+        - Developing modeling framework to understand and predict human cognitive states
+	- Modeling dynamics of human behavior for human-automation interactions
+	- Creating and validating tools to optimize system performance based on predicted human states.
 #          - Bullet point
 #          - Bullet point
 #    - role: Senior Software Engineer
