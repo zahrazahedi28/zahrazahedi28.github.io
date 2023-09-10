@@ -248,14 +248,14 @@ experiences:
       time: 2015
 
 
-#skills:
-#    title: Awards and Honors
-#
-#    toolset:
-#      - name: Fulton Fellowship Award
-#      - time: 2019-2020
-#        #level: #
-#
+skills:
+    title: Experiences
+
+    toolset:
+      - name: Research Scientist Intern
+      - time: September 2022 - May 2023
+        level: Honda Research Institute, San Jose, CA.
+
 #      - name: Graduate Fellowship Award
 #      - time: 2019 and 2020
 #       # level: #
