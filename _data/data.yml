@@ -23,6 +23,13 @@ sidebar:
     #codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
+
+    thesis-sidebar:
+      title: My Thesis
+      link: /thesis.html
+      thesis_title: Computational Accounts of Trust in Human AI Interaction
+
+
     languages:
       - idiom: English
         level: Professional
@@ -40,6 +47,7 @@ sidebar:
 
       - item: Human Robot Interaction
         link:
+
 
 career-profile:
     title: Home
