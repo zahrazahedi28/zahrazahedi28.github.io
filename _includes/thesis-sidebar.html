@@ -1,8 +1,8 @@
-{% assign thesis = site.data.data.thesis-sidebar %}
+{% assign thesis-sidebar = site.data.data.thesis-sidebar %}
 {% if thesis-sidebar %}
 <div class="thesis-container container-block">
-  <h2 class="container-block-title">{{ thesis.title }}</h2>
-  <a class="thesis-link" href="{{ thesis.link }}">{{ thesis.thesis_title }}</a>
+  <h2 class="container-block-title">{{ thesis-sidebar.title }}</h2>
+  <a class="thesis-link" href="{{ thesis-sidebar.link }}">{{ thesis-sidebar.thesis_title }}</a>
 </div>
 {% endif %}
 
