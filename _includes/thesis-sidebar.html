@@ -1,16 +1,16 @@
 {% assign thesis-sidebar = site.data.data.sidebar.thesis-sidebar %}
 {% if thesis-sidebar %}
 <div class="thesis-container container-block">
-  <h2 class="container-block-title">{{ thesis-sidebar.title }}</h2>
+  <h2 class="container-block-title">
+    My Dissertation
+  </h2>
 
   <ul class="list-unstyled interests-list">
     {% for thesis in thesis-sidebar %}
 
       {% if thesis.link %}
-      <li>{{ thesis.title }}</li> <br>
       <li><a href="{{ thesis.link }}">{{ thesis.thesis_title }}</a></li>
       {% else %}
-      <li>{{ thesis.title }}</li> <br>
       <li>{{ thesis.thesis_title }}</li>
       {% endif %}
 
