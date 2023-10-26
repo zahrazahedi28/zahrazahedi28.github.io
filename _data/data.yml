@@ -25,9 +25,9 @@ sidebar:
 
 
     thesis-sidebar:
-      title: My Thesis
-      link: /thesis.html
-      thesis_title: Computational Accounts of Trust in Human AI Interaction
+      - title: My Thesis
+        link: ./thesis.html
+        thesis_title: Computational Accounts of Trust in Human AI Interaction
 
 
     languages:

@@ -2,8 +2,9 @@
 {% if thesis-sidebar %}
 <div class="thesis-container container-block">
   <h2 class="container-block-title">{{ thesis-sidebar.title }}</h2>
-  <a class="thesis-link" href="{{ thesis-sidebar.link }}">{{ thesis-sidebar.thesis_title }}</a>
+
+  <ul class="list-unstyled thesis-sidebar-list">
+    <li><a href="{{ thesis-sidebar.link }}">{{ thesis-sidebar.thesis_title }}</a></li>
+  </ul>
 </div>
 {% endif %}
-
-
