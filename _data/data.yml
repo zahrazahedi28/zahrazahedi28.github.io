@@ -78,14 +78,14 @@ publications:
     papers:
 
       - title: "Modeling, Engendering and Leveraging Trust in Human-Robot Interaction: A Mental Model based Framework"
-          link: ""
-          authors: "Z. Zahedi, S. Kambhampati"
-          conference: "HRI Pioneer 2024"
+        link: "#"
+        authors: "Z. Zahedi, S. Kambhampati"
+        conference: "HRI Pioneer 2024"
 
       - title: "`Why didn't you allocate this task to them?' Negotiation-Aware Task Allocation and Contrastive Explanation Generation"
-          link: "https://dl.acm.org/doi/abs/10.5555/3545946.3598911"
-          authors: "Z. Zahedi, S. Sengupta, S. Kambhampati"
-          conference: "To appear at AAAI 2024"
+        link: "https://dl.acm.org/doi/abs/10.5555/3545946.3598911"
+        authors: "Z. Zahedi, S. Sengupta, S. Kambhampati"
+        conference: "To appear at AAAI 2024"
 
       - title: "Toward Informed AV Decision-Making: A Computational Model of Well-being and Trust in Mobility"
         link: "#"
