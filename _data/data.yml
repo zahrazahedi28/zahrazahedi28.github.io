@@ -107,6 +107,11 @@ publications:
         authors: "Z. Zahedi, M. Verma, S. Sreedharan, S. Kambhampati"
         conference: "HRI 2023"
 
+      - title: "Explicable or Optimal: Trust Aware Planning in Iterated Human Robot Interaction"
+        link: "https://youtu.be/Y2Ej2tHwufs"
+        authors: "Z. Zahedi, S. Sreedharan, K. Valmeekam, S. Kambhampati"
+        conference: "Accepted as a stand-alone video, ICRA 2023"
+
       - title: "`Why didn't you allocate this task to them?' Negotiation-Aware Explicable Task Allocation and Contrastive Explanation Generation"
         link: "https://dl.acm.org/doi/abs/10.5555/3545946.3598911"
         authors: "Z. Zahedi, S. Sengupta, S. Kambhampati"
